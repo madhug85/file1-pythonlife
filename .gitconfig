@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = test
+	email = test@test.com
+# Please adapt and uncomment the following lines:
+#	name = test
+#	email = test@test.(none)
+[core]
+	editor = nano
