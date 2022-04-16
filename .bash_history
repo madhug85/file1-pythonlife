@@ -57,3 +57,123 @@ git config -list
 git config --list
 init 0
 sudo init 0
+ip a
+git --version
+ls -al
+ls
+ll
+git init .
+vi file1
+cat file1
+git add .
+ls
+ll
+git status
+git commit -m "first commit" file1
+git log
+git status
+touch file2
+git add .
+git commit -m "first commit" .
+git status
+git log
+git branch master
+git push -u origin master
+git remote add origin https://github.com/madhug85/file1-pythonlife.git
+ll
+git push -u origin master
+git remote add origin https://github.com/madhug85/file1-pythonlife.git
+git push -u origin master
+ll
+git branch
+git branch branch1
+git branch
+git checkout branch1
+git branch
+ll
+git checkout master
+pwd
+git branch
+ll
+git status
+git checkout madhu
+git status
+git checkout branch1
+git branch
+touch file4
+touch file5
+touch file6
+git add .
+git commit -m "branch commits" .
+git push -u origin branch1
+sudo init 0
+ip a
+ls
+git --version
+pwd
+git branch
+cd branch1
+git checkout master
+ls
+git checkout branch1
+history
+git status
+touch 1.txt 2.txt
+ls
+ll
+git status
+git add .
+git status
+git config -list
+git config --list
+git commit -m "intial draft"
+git status
+git remote add origin https://github.com/madhug85/intellipaat-demo.git
+git push origin branch1
+git status
+rm -rf project/
+ll
+git clone https://github.com/madhug85/file1-pythonlife.git~
+git clone https://github.com/madhug85/file1-pythonlife.git
+ll
+pwd
+git status
+nano 1.txt
+vi 1.txt
+git status
+git add .
+git add 1.txt
+git commit -m "frist"
+git status
+git remote origin
+git remote add origin https://github.com/madhug85/file1-pythonlife.git
+git push origin branch1
+git log
+git status
+ls
+ll
+2.txt
+git branch bhanu
+git status
+git checkout bhanu
+ls
+vi file2
+git status
+git checkout branch1
+git status
+git checkout bhanu
+git status
+git checkout branch1
+vi file2
+git checkout bhanu
+vi file2
+git stash
+git checkout branch1
+git checkout bhanu
+git stash pop
+git add .
+git commit -m "updated the code file2"
+git push origin bhanu
+git log
+git 6845dfe20cc698a8597d8620f5e93f52017d3eb3
+sudo init 0
