@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1649956747,,"wq!"
+|2,0,1650104842,,"wq!"
 :q
 |2,0,1649936842,,"q"
 
@@ -27,24 +27,45 @@
 # Registers:
 
 # File marks:
-'0  1  27  ~/file1
-|4,48,1,27,1649956747,"~/file1"
-'1  2  0  ~/.gitconfig
-|4,49,2,0,1649936842,"~/.gitconfig"
+'0  1  17  ~/1.txt
+|4,48,1,17,1650104842,"~/1.txt"
+'1  1  27  ~/file1
+|4,49,1,27,1649956747,"~/file1"
+'2  2  0  ~/.gitconfig
+|4,50,2,0,1649936842,"~/.gitconfig"
 
 # Jumplist (newest first):
+-'  1  17  ~/1.txt
+|4,39,1,17,1650104842,"~/1.txt"
+-'  1  27  ~/file1
+|4,39,1,27,1649956747,"~/file1"
 -'  1  27  ~/file1
 |4,39,1,27,1649956747,"~/file1"
 -'  2  0  ~/.gitconfig
 |4,39,2,0,1649936842,"~/.gitconfig"
 -'  2  0  ~/.gitconfig
 |4,39,2,0,1649936842,"~/.gitconfig"
+-'  2  0  ~/.gitconfig
+|4,39,2,0,1649936842,"~/.gitconfig"
+-'  2  0  ~/.gitconfig
+|4,39,2,0,1649936842,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1649936794,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1649936794,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1649936794,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1649936794,"~/.gitconfig"
 
 # History of marks within files (newest to oldest):
+
+> ~/1.txt
+	*	1650104838	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
 
 > ~/file1
 	*	1649956737	0
