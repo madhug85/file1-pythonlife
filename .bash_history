@@ -177,3 +177,81 @@ git push origin bhanu
 git log
 git 6845dfe20cc698a8597d8620f5e93f52017d3eb3
 sudo init 0
+ls
+git branch
+cd madhu/
+git checkout madhu
+ls
+ll
+git branch master
+git branch
+git checkout master
+git branch
+vi file2
+git add .
+git commit -m "updated code"
+git push origin bhanu
+git log
+git diff 6845dfe20cc698a8597d8620f5e93f52017d3eb3 40be9a8e6c3c8a5c07b9182b4327b3a630a5c8ff
+ll
+git log
+ip a
+test
+git diff 6845dfe20cc698a8597d8620f5e93f52017d3eb3 40be9a8e6c3c8a5c07b9182b4327b3a630a5c8ff
+mkdir worker1
+git branch
+ll
+mkdir worker2
+git clone https://github.com/madhug85/file1-pythonlife.git
+cd worker1
+git clone https://github.com/madhug85/file1-pythonlife.git
+cd..
+cd
+cd worker2/
+git clone https://github.com/madhug85/file1-pythonlife.git
+cd
+cd worker1
+ll
+cd file1-pythonlife/
+ll
+touch file1
+ll
+vi file1
+git add.
+git add .
+git commit -m "first worker1"
+
+git push origin bhanu
+cd
+rm -rf *
+ls
+mkdir worker1
+mkdir worker2
+git branch
+cd worker1
+git clone https://github.com/madhug85/file1-pythonlife.git
+cd
+cd worker2
+git clone https://github.com/madhug85/file1-pythonlife.git
+cd
+cd worker1
+ll
+cd
+ls
+cd worker1
+ll
+file1-pythonlife/
+cd file1-pythonlife/
+ll
+vi ansible.pem
+git add .
+git commit -m "worker1"
+git push origin bhanu
+git remote add origin https://github.com/madhug85/file1-pythonlife.git
+git push origin madhu
+cd
+rm -rf *
+ls
+git branch -D madhu
+init 0
+sudo init 0
